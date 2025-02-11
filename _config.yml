@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://www.gusman.com"
 theme: jekyll-theme-hacker
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 exclude:
