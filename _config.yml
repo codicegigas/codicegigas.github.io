@@ -1,0 +1,19 @@
+title: GUSMAN
+description: Mi sito web
+author: Gustavo Flores
+email: gustavoflor3s@gmail.com
+baseurl: ""
+url: "https://www.gusman.com"
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+include:
+  - .htaccess
