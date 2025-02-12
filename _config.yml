@@ -4,7 +4,7 @@ author: Gustavo Flores
 email: gustavoflor3s@gmail.com
 baseurl: ""
 url: "https://www.gusman.com"
-theme: jekyll-theme-minimal
+theme: minima
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 exclude:
