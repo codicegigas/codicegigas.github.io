@@ -1,0 +1,53 @@
+---
+---
+
+@import "minima";
+
+.home {
+  .hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+
+    .avatar {
+      margin-right: 2rem;
+      img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+      }
+    }
+
+    .description {
+      text-align: left;
+    }
+  }
+
+  .recent-posts {
+    h2 {
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+      li {
+        margin-bottom: 0.5rem;
+        a {
+          font-weight: bold;
+        }
+        .post-date {
+          color: #888;
+          margin-left: 1rem;
+        }
+      }
+    }
+  }
+}
+
+/* Estilos para el pie de página */
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #f0f0f0; /* Color de fondo claro */
+}

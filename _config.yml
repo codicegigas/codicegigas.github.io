@@ -15,3 +15,10 @@ exclude:
   - .gitignore
 include:
   - .htaccess
+# Nueva configuración
+avatar: /assets/images/avatar.jpg # Ruta a tu foto de perfil
+social:
+  github: codicegigas
+  twitter: tu_usuario_de_twitter # Si tienes Twitter
+  linkedin: tu_usuario_de_linkedin # Si tienes LinkedIn
+  # Puedes añadir más redes sociales aquí

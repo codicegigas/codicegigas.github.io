@@ -1,0 +1,35 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+        <p>
+          Correo electrónico: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </p>
+      </div>
+      <div class="footer-col">
+        <ul class="social-media-list">
+          {% if site.social.github %}
+          <li>
+            <a href="https://github.com/{{ site.social.github }}">
+              <i class="fab fa-github"></i> GitHub
+            </a>
+          </li>
+          {% endif %} {% if site.social.twitter %}
+          <li>
+            <a href="https://twitter.com/{{ site.social.twitter }}">
+              <i class="fab fa-twitter"></i> Twitter
+            </a>
+          </li>
+          {% endif %} {% if site.social.linkedin %}
+          <li>
+            <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}">
+              <i class="fab fa-linkedin"></i> LinkedIn
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
