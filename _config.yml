@@ -5,8 +5,6 @@ email: gustavoflor3s@gmail.com
 baseurl: ""
 url: "https://www.gusman.com"
 theme: minimal
-plugins:
-  - jekyll-remote-theme
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 exclude:
