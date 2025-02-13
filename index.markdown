@@ -9,4 +9,4 @@ permalink: /
 
 #Bienvenido a mi pagina de incio!
 
-Hola
+<img src="https://marketing4ecommerce.net/wp-content/uploads/2022/04/ositos-e1650298306276.jpg" alt="Osos" style="width: 50%; height: auto;" />

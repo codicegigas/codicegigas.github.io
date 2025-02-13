@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm Gustavo Flores, live in México and currently. Study a Ph.D. in Science and Technology, my fields of interest are Machine Learning Algorithms.
+I'm a enthusiastic of robotics, electronics. Outside my profesional life. I like to hang out with my family. For those who are interested in my professional profile, you can find it at [LinkedIn](https://www.linkedin.com/in/gus-fls)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<img src="https://pcyti.izt.uam.mx/wp-content/uploads/2023/02/gustavo-e1676139897382.jpeg" alt="Imagen personal" width="300" />
