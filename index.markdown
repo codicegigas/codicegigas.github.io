@@ -2,10 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
----
-
 layout: home
-title: Welcome to the Jungle  ---
+title: Welcome to the Jungle
 
 # Bienvenido a mi sitio web
 ![Imagen de bienvenida](https://pcyti.izt.uam.mx/wp-content/uploads/2023/02/gustavo-e1676139897382.jpeg)
